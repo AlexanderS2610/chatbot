@@ -1,4 +1,4 @@
-# 💬 Chatbot template
+# 💬 Chatbot en Streamlit
 
 Una aplicación Streamlit sencilla que muestra cómo crear un chatbot utilizando GPT-3.5 de OpenAI.
 
